@@ -17,4 +17,6 @@ Data is collected on who clicked the link, entered credentials, or reported the 
 <h1>PowerPoint Security Awareness Training</h1>
 Below is an example of a PowerPoint presentation providing information to those who failed the phishing campaign test.
 <p>
-<img src=""
+<img src="https://github.com/LisetteTR/Phishing-Awareness-Campaign/blob/ffb68884c0a1272050cd98f06f0e43ba25664753/4.0.png" alt="Image Alt" width="800"
+<p>
+<img src="" alt="Image Alt" width="800"
