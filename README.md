@@ -19,4 +19,13 @@ Below is an example of a PowerPoint presentation providing information to those 
 <p>
 <img src="https://github.com/LisetteTR/Phishing-Awareness-Campaign/blob/ffb68884c0a1272050cd98f06f0e43ba25664753/4.0.png" alt="Image Alt" width="800"
 <p>
-<img src="" alt="Image Alt" width="800"
+<img src="https://github.com/LisetteTR/Phishing-Awareness-Campaign/blob/0b90df57b0127f5e40a79325832a4ca96ed81346/4.1.png" alt="Image Alt" width="800"
+<p>
+<img src="https://github.com/LisetteTR/Phishing-Awareness-Campaign/blob/0b90df57b0127f5e40a79325832a4ca96ed81346/4.2.png" alt="Image Alt" width="800"
+<p>
+<img src="https://github.com/LisetteTR/Phishing-Awareness-Campaign/blob/0b90df57b0127f5e40a79325832a4ca96ed81346/4.3.png" alt="Image Alt" width="800"
+<p>
+<img src="https://github.com/LisetteTR/Phishing-Awareness-Campaign/blob/0b90df57b0127f5e40a79325832a4ca96ed81346/4.3.png" alt="Image Alt" width="800"
+<p>
+<h2>Why is this security awareness training important?</h2>
+Providing security awareness training for departments that failed the phishing test is crucial because it helps reduce the risk of successful phishing attacks in the future. Employees who are unaware of phishing tactics are more likely to fall for such scams, which can lead to data breaches, financial loss, and reputational damage. Training reinforces best practices for identifying phishing attempts, improving overall security posture, and ensuring that all departments are equipped to protect sensitive information.
