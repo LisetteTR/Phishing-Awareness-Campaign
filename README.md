@@ -9,6 +9,12 @@ We conduct a phishing campaign to identify the most vulnerable departments. Once
 
 <h1>Results Analysis</h1>
 <p>
-<img src="" alt="Image Alt" width="800"
+<img src="https://github.com/LisetteTR/Phishing-Awareness-Campaign/blob/bdb0ecd650d13df8df4a112a65e5dceda3e37221/3.png" alt="Image Alt" width="1000"
+<p> 
+  
+Data is collected on who clicked the link, entered credentials, or reported the email. After reviewing the results, we need to create a short presentation providing awareness training materials for the two teams that appear to be the most susceptible. This will help improve the security awareness of the teams that performed poorly in this campaign. 
+
+<h1>PowerPoint Security Awareness Training</h1>
+Below is an example of a PowerPoint presentation providing information to those who failed the phishing campaign test.
 <p>
-Data is collected on who clicked the link, entered credentials, or reported the email. After reviewing the results, We need to create a short presentation providing some awareness training materials for the two teams that appear to be the most susceptible. This will help with improving the security awareness of the teams that preformed poorly in this campaign. 
+<img src=""
